@@ -13,6 +13,17 @@ net stop mongodb    # Stop mongodb service
 mongosh             # Open the Shell that can show the DB connection
 ```
 
+## Extensions
+
+- Code Spell Checker
+
+Avoid some bug by writing.
+
+- Code auto formate
+  - Eslint
+  - Prettier - Code formatter
+  - Settings: Format on save
+
 ## Async Await
 
 https://juejin.cn/post/6844903984889593863
